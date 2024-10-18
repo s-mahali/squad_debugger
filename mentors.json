@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Birmohan Singh",
+        "Education Qualification": "Ph.D., M.E",
+        "phone": "+91-1672-253208",
+        "email": "birmohansingh@sliet.ac.in",
+        "image": "/images/Birmohan.jpeg"
+        
+
+    },
+    {
+        "id": 2,
+        "name": "Dr. Damanpreet Singh",
+        "Education Qualification": "Ph.D., M.Tech, B.Tech.",
+        "phone": "+91-1672-253210 ",
+        "email": "damanpreeth@sliet.ac.in",
+        "image": "/images/damanpreet.jpeg"
+        
+
+    },
+    {
+        "id": 3,
+        "name": "Dr. Major Singh Goraya",
+        "Education Qualification": "Ph.D., M.Tech, B.Tech.",
+        "phone": "01672-253212",
+        "email": "mjrsingh@yahoo.com",
+        "image": "/images/major.jpeg"
+        
+
+    },
+    {
+        "id": 4,
+        "name": "Dr. Manoj Sachan",
+        "Education Qualification": "B.Tech(Computer Science) , M.E(Computer Science)",
+        "phone": "+91-1672-253214",
+        "email": "manojsachan@sliet.ac.in",
+        "image": "/images/manoj.jpeg"
+        
+
+    },
+    {
+        "id": 5,
+        "name": "Dr. Gurjinder Kaur",
+        "Education Qualification": "B.E, M.S",
+        "phone": "+91-1672-253326",
+        "email": "gurjinder13@yahoo.com",
+        "image": "/images/gurjinder.jpeg"
+        
+
+    },
+    {
+        "id": 6,
+        "name": "Dr. Amar Nath",
+        "Education Qualification": "Ph.D., M.Tech., B. Tech.",
+        "phone": "01672-253610",
+        "email": "amarnath@sliet.ac.in",
+        "image": "/images/amar.jpeg"
+        
+
+    },
+    {
+        "id": 7,
+        "name": "Dr. Jagdeep Singh",
+        "Education Qualification": "Ph.D., M.Tech, B.Tech. (Computer Science & Engineering)",
+        "phone": "01672-253320",
+        "email": "jagdeepknit@gmail.com",
+        "image": "/images/jagdeep.jpeg"
+        
+
+    },
+    {
+        "id": 8,
+        "name": "Dr. Manminder Singh",
+        "Education Qualification": "Ph. D (Computer Science & Engineering)",
+        "phone": "+91-01672-253328",
+        "email": "manmindersingh@sliet.ac.in",
+        "image": "/images/manminder.jpeg"
+        
+
+    },
+    {
+        "id": 9,
+        "name": "Dr. Preetpal Kaur Buttar",
+        "Education Qualification": "PhD (Computer Science & Engineering)",
+        "phone": "01672-253614",
+        "email": "preetpal@sliet.ac.in",
+        "image": "/images/preetpal.jpeg"
+        
+
+    },
+    {
+        "id": 10,
+        "name": "Dr. Tajinder Singh",
+        "Education Qualification": "Ph.D. ",
+        "phone": "+91-6283963279",
+        "email": "tajindersingh@sliet.ac.in",
+        "image": "/images/tajinder.jpeg"
+        
+
+    },
+    {
+        "id": 11,
+        "name": "Dr. Utkarsh ",
+        "Education Qualification": "Doctor of Philosophy, M.Tech",
+        "phone": "+911672-253208",
+        "email": "utkarsh@sliet.ac.in",
+        "image": "/images/Birmohan.jpeg"
+        
+
+    },
+    {
+        "id": 1,
+        "name": "Dr. Birmohan Singh",
+        "Education Qualification": "Ph.D., M.E",
+        "phone": "+911672-253208",
+        "email": "birmohansingh@sliet.ac.in",
+        "image": "/images/Birmohan.jpeg"
+        
+
+    },
+    {
+        "id": 1,
+        "name": "Dr. Birmohan Singh",
+        "Education Qualification": "Ph.D., M.E",
+        "phone": "+911672-253208",
+        "email": "birmohansingh@sliet.ac.in",
+        "image": "/images/Birmohan.jpeg"
+        
+
+    },
+    {
+        "id": 1,
+        "name": "Dr. Birmohan Singh",
+        "Education Qualification": "Ph.D., M.E",
+        "phone": "+911672-253208",
+        "email": "birmohansingh@sliet.ac.in",
+        "image": "/images/Birmohan.jpeg"
+        
+
+    },
+    {
+        "id": 1,
+        "name": "Dr. Birmohan Singh",
+        "Education Qualification": "Ph.D., M.E",
+        "phone": "+911672-253208",
+        "email": "birmohansingh@sliet.ac.in",
+        "image": "/images/Birmohan.jpeg"
+        
+
+    }
+
+]

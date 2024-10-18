@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SLIET Mentorship</title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <!------------------------------------------------------ navbar Starting ------------------------------------------------------------ -->
+    <nav class="navbar">
+        <a href="#" class="logo">SLIET</a>
+        <div class="search-container">
+            <input type="text" class="search-input" placeholder="Search mentors...">
+            <button class="search-button">Search</button>
+        </div>
+        <div class="nav-links">
+            <!-- <a href="#">Faculty Mentors</a> -->
+            <a href="#">Available Mentors</a>
+            <a href="#">Booking Sessions</a>
+            <a href="#">Booking Status</a>
+            <!-- <a href="#">Profile</a> -->
+            <a href="#" class="profile-link">
+                <div class="profile-image">
+                    <img src="https://cdn.discordapp.com/attachments/1134855147542040576/1296761209009340416/photo-1494790108377-be9c29b29330.jpg?ex=6713767c&is=671224fc&hm=daa07af6131f04d8376befbd524158099c7f0d02c5b5f790aa44d7e6fd4cc59f&" alt="Profile">
+                </div>
+            </a>
+        </div>
+        <div class="menu-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </nav>
+    <!------------------------------------------------------ navbar Ending------------------------------------------------------------ -->
+
+    <!-- navbar js starting -->
+    <script>
+        const menuToggle = document.querySelector('.menu-toggle');
+        const navLinks = document.querySelector('.nav-links');
+
+        menuToggle.addEventListener('click', () => {
+            navLinks.classList.toggle('active');
+        });
+    </script>
+     <!-- navbar js ending -->
+</body>
+</html>
