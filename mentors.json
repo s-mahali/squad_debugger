@@ -1,153 +1,128 @@
 [
     {
-        "id": 1,
-        "name": "Dr. Birmohan Singh",
-        "Education Qualification": "Ph.D., M.E",
-        "phone": "+91-1672-253208",
-        "email": "birmohansingh@sliet.ac.in",
-        "image": "/images/Birmohan.jpeg"
-        
-
+      "id": 1,
+      "name": "Dr. Birmohan Singh",
+      "Education Qualification": "Ph.D., M.E",
+      "phone": "+91-1672-253208",
+      "email": "birmohansingh@sliet.ac.in",
+      "image": "https://images.pexels.com/photos/1181534/pexels-photo-1181534.jpeg?auto=compress&cs=tinysrgb&w=600",
+  
+      "status": "active",
+      "profession": "DSA master",
+      "expertise": [
+        "data structures",
+        " complex algorithms",
+        "database",
+        "backend "
+      ]
     },
     {
-        "id": 2,
-        "name": "Dr. Damanpreet Singh",
-        "Education Qualification": "Ph.D., M.Tech, B.Tech.",
-        "phone": "+91-1672-253210 ",
-        "email": "damanpreeth@sliet.ac.in",
-        "image": "/images/damanpreet.jpeg"
-        
-
+      "id": 2,
+      "name": "Dr. Damanpreet Singh",
+      "Education Qualification": "Ph.D., M.Tech, B.Tech.",
+      "phone": "+91-1672-253210 ",
+      "email": "damanpreeth@sliet.ac.in",
+      "image": "https://images.pexels.com/photos/4491461/pexels-photo-4491461.jpeg?auto=compress&cs=tinysrgb&w=600",
+  
+      "status": "active",
+      "profession": "Data Scientist",
+      "expertise": ["machine learning", "data analytics", "database", "backend "]
     },
     {
-        "id": 3,
-        "name": "Dr. Major Singh Goraya",
-        "Education Qualification": "Ph.D., M.Tech, B.Tech.",
-        "phone": "01672-253212",
-        "email": "mjrsingh@yahoo.com",
-        "image": "/images/major.jpeg"
-        
-
+      "id": 3,
+      "name": "Dr. Major Singh Goraya",
+      "Education Qualification": "Ph.D., M.Tech, B.Tech.",
+      "phone": "01672-253212",
+  
+      "email": "mjrsingh@yahoo.com",
+      "image": "https://images.pexels.com/photos/4342401/pexels-photo-4342401.jpeg?auto=compress&cs=tinysrgb&w=600",
+  
+      "status": "inactive",
+      "profession": "Mern Stack Developer",
+      "expertise": ["frontend", "cloud", "devOps", "backend"]
     },
     {
-        "id": 4,
-        "name": "Dr. Manoj Sachan",
-        "Education Qualification": "B.Tech(Computer Science) , M.E(Computer Science)",
-        "phone": "+91-1672-253214",
-        "email": "manojsachan@sliet.ac.in",
-        "image": "/images/manoj.jpeg"
-        
-
+      "id": 4,
+      "name": "Dr. Manoj Sachan",
+      "Education Qualification": "B.Tech(Computer Science) , M.E(Computer Science)",
+      "phone": "+91-1672-253214",
+      "email": "manojsachan@sliet.ac.in",
+      "image": "https://images.pexels.com/photos/3772712/pexels-photo-3772712.jpeg?auto=compress&cs=tinysrgb&w=600",
+  
+      "status": "inactive",
+      "profession": "Backend Developer",
+      "expertise": ["database", "cloud", "devOps", "backend"]
     },
     {
-        "id": 5,
-        "name": "Dr. Gurjinder Kaur",
-        "Education Qualification": "B.E, M.S",
-        "phone": "+91-1672-253326",
-        "email": "gurjinder13@yahoo.com",
-        "image": "/images/gurjinder.jpeg"
-        
-
+      "id": 5,
+      "name": "Dr. Gurjinder Kaur",
+      "Education Qualification": "B.E, M.S",
+      "phone": "+91-1672-253326",
+      "email": "gurjinder13@yahoo.com",
+      "image": "https://images.pexels.com/photos/5212320/pexels-photo-5212320.jpeg?auto=compress&cs=tinysrgb&w=600",
+  
+      "status": "active",
+      "profession": "Cloud Engineer",
+      "expertise": ["cloud", "devOps", "backend", "infrastructure"]
     },
     {
-        "id": 6,
-        "name": "Dr. Amar Nath",
-        "Education Qualification": "Ph.D., M.Tech., B. Tech.",
-        "phone": "01672-253610",
-        "email": "amarnath@sliet.ac.in",
-        "image": "/images/amar.jpeg"
-        
-
+      "id": 6,
+      "name": "Dr. Amar Nath",
+      "Education Qualification": "Ph.D., M.Tech., B. Tech.",
+      "phone": "01672-253610",
+  
+      "email": "amarnath@sliet.ac.in",
+      "image": "https://images.pexels.com/photos/8197513/pexels-photo-8197513.jpeg?auto=compress&cs=tinysrgb&w=600",
+  
+      "status": "active",
+      "profession": "AI and ML Engineer",
+      "expertise": ["machine learning", "Web-3", "ai algorithms", "dsa"]
     },
     {
-        "id": 7,
-        "name": "Dr. Jagdeep Singh",
-        "Education Qualification": "Ph.D., M.Tech, B.Tech. (Computer Science & Engineering)",
-        "phone": "01672-253320",
-        "email": "jagdeepknit@gmail.com",
-        "image": "/images/jagdeep.jpeg"
-        
-
+      "id": 7,
+      "name": "Dr. Jagdeep Singh",
+      "Education Qualification": "Ph.D., M.Tech, B.Tech. (Computer Science & Engineering)",
+      "phone": "01672-253320",
+      "email": "jagdeepknit@gmail.com",
+      "image": "https://images.pexels.com/photos/6325952/pexels-photo-6325952.jpeg?auto=compress&cs=tinysrgb&w=600",
+  
+      "status": "inactive",
+      "profession": "Software Engineer",
+      "expertise": ["software Mgmt.", "clouds", "infrastructure", "dsa"]
     },
     {
-        "id": 8,
-        "name": "Dr. Manminder Singh",
-        "Education Qualification": "Ph. D (Computer Science & Engineering)",
-        "phone": "+91-01672-253328",
-        "email": "manmindersingh@sliet.ac.in",
-        "image": "/images/manminder.jpeg"
-        
-
+      "id": 8,
+      "name": "Dr. Manminder Singh",
+      "Education Qualification": "Ph. D (Computer Science & Engineering)",
+      "phone": "+91-01672-253328",
+      "email": "manmindersingh@sliet.ac.in",
+      "image": "https://images.pexels.com/photos/4098274/pexels-photo-4098274.jpeg?auto=compress&cs=tinysrgb&w=600",
+  
+      "status": "inactive",
+      "profession": "Project Manager",
+      "expertise": ["management", "infrastructure", "design", "UI/UX"]
     },
     {
-        "id": 9,
-        "name": "Dr. Preetpal Kaur Buttar",
-        "Education Qualification": "PhD (Computer Science & Engineering)",
-        "phone": "01672-253614",
-        "email": "preetpal@sliet.ac.in",
-        "image": "/images/preetpal.jpeg"
-        
-
+      "id": 9,
+      "name": "Dr. Preetpal Kaur Buttar",
+      "Education Qualification": "PhD (Computer Science & Engineering)",
+      "phone": "01672-253614",
+      "email": "preetpal@sliet.ac.in",
+      "image":  "https://images.pexels.com/photos/5212320/pexels-photo-5212320.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": "active",
+      "profession": "Senior Engineer",
+      "expertise": ["management", "full-stack", "design", "DSA"]
     },
     {
-        "id": 10,
-        "name": "Dr. Tajinder Singh",
-        "Education Qualification": "Ph.D. ",
-        "phone": "+91-6283963279",
-        "email": "tajindersingh@sliet.ac.in",
-        "image": "/images/tajinder.jpeg"
-        
-
-    },
-    {
-        "id": 11,
-        "name": "Dr. Utkarsh ",
-        "Education Qualification": "Doctor of Philosophy, M.Tech",
-        "phone": "+911672-253208",
-        "email": "utkarsh@sliet.ac.in",
-        "image": "/images/Birmohan.jpeg"
-        
-
-    },
-    {
-        "id": 1,
-        "name": "Dr. Birmohan Singh",
-        "Education Qualification": "Ph.D., M.E",
-        "phone": "+911672-253208",
-        "email": "birmohansingh@sliet.ac.in",
-        "image": "/images/Birmohan.jpeg"
-        
-
-    },
-    {
-        "id": 1,
-        "name": "Dr. Birmohan Singh",
-        "Education Qualification": "Ph.D., M.E",
-        "phone": "+911672-253208",
-        "email": "birmohansingh@sliet.ac.in",
-        "image": "/images/Birmohan.jpeg"
-        
-
-    },
-    {
-        "id": 1,
-        "name": "Dr. Birmohan Singh",
-        "Education Qualification": "Ph.D., M.E",
-        "phone": "+911672-253208",
-        "email": "birmohansingh@sliet.ac.in",
-        "image": "/images/Birmohan.jpeg"
-        
-
-    },
-    {
-        "id": 1,
-        "name": "Dr. Birmohan Singh",
-        "Education Qualification": "Ph.D., M.E",
-        "phone": "+911672-253208",
-        "email": "birmohansingh@sliet.ac.in",
-        "image": "/images/Birmohan.jpeg"
-        
-
+      "id": 10,
+      "name": "Dr. Tajinder Singh",
+      "Education Qualification": "Ph.D. ",
+      "phone": "+91-6283963279",
+      "email": "tajindersingh@sliet.ac.in",
+      "image": "https://images.pexels.com/photos/6325952/pexels-photo-6325952.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "status": "active",
+      "profession": "React Developer",
+      "expertise": ["frontend", "full-stack", "design", "DSA"]
     }
-
-]
+  ]
+  
